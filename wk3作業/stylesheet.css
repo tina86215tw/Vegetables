@@ -1,0 +1,164 @@
+body{
+  background-color: #EDF2C5;
+  margin: 0;
+}
+
+.container{
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;;
+}
+
+/*Header Style*/
+header p{
+  margin-top: 50px;
+  margin-bottom: 10px;
+  color: #889C5B;
+  font-family: Arial Black;
+  font-size: 43px;
+  float: left;
+}
+
+.botton p{
+  font-size: 12px;
+  font-family: Arial Black;
+  color: #778A50;
+  padding: 3px 9px 3px 9px;
+  margin: 73px 0px 17px 8px;
+  border: 1px solid #778A50;
+  border-radius: 3px;
+  float: right;
+}
+
+hr{
+  width: 0px;
+  height: 20px;
+  border: 0.5px solid #778A50;
+  margin-top: 75px;
+  margin-left: 10px;
+  margin-right: 2px;
+  float: right;
+}
+
+header img{
+  margin-top: 73px;
+  margin-left: 8px;
+  width: 25px;
+  height: 25px;
+  border-radius: 2px;
+  float: right;
+}
+
+/*Navigator Style*/
+.box{
+  margin: 0;
+  padding: 0;
+  height: 43px;
+  width: 940px;
+  border-radius: 3px;
+  background-color: #889C5B;
+  padding-left: 31px;
+  padding-top: 10px;
+  padding-bottom: 16px;
+  box-sizing: border-box;
+}
+
+.box li{
+  list-style: none;
+  float: left;
+  padding-right: 60px;
+  color: #EDF2C5;
+  font-family: Arial Black;
+  font-size: 16px;
+}
+
+
+
+/*Article*/
+article img{
+  height: 448px;
+  width: 940px;
+  margin-top: 20px;
+  margin-bottom: 32px;
+}
+
+.heading{
+  margin: 0px;
+  margin-bottom: 17px;
+  height: 44px;
+  width: 444px;
+  background-color: #889C5B;
+  color: #EDF2C5;
+  font-family: Arial Black;
+  font-size: 16px;
+  border-radius: 4px;
+  padding-left: 31px;
+  padding-top: 10px;
+  padding-bottom: 16px;
+  box-sizing: border-box;
+
+}
+
+.left-aside{
+  margin: 0px;
+  margin-bottom: 17px;
+  width: 476px;
+  float: left;
+}
+
+.left-aside img{
+  margin: 0px;
+  width: 140px;
+  height: 140px;
+  padding-right: 8px;
+}
+
+.img3{
+  padding-right: 0px;
+}
+
+.right-aside{
+  margin: 0px;
+  width: 444px;
+  float:right;
+}
+
+.paregraphs{
+  margin: 0px;
+  background-color: #F5F8B9;
+  width: 444px;
+  height: 140px;
+  border-radius: 3px;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+
+.pone {
+  padding-top: 12px;
+  border-bottom: 1px solid #898989;
+  padding-bottom: 15px;
+  line-height: 17px;
+}
+
+.paregraphs p{
+  font-family: Arial;
+  font-size: 12px;
+  color: #898989;
+}
+
+
+
+/*Footer*/
+footer{
+  background-color: #889C5B;
+}
+footer p{
+  margin: 0PX;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  box-sizing: border-box;
+  text-align: center;
+  color: #EDF2C5;
+  font-family: Arial Black;
+  font-size: 12px;
+}
